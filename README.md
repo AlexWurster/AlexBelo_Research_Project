@@ -18,3 +18,5 @@ This was performed in several steps:
 - Accessing the [files](https://www.science.org/doi/10.1126/science.aan0693) involving protein stability for *de novo* designed protein models, importing information about the stability for each protein peptide chain, and analyse the relation between the number of rotatable bonds and the stability of the designs.(**Acces_Proteinstability.ipynb** file)
 
 - All the analysis for each dataset was performed and save in file: **Data_Analysis.ipynb**
+
+- The outcome graphs from the data analysis where saved in file: **Data_Figures.pdf**
