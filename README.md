@@ -11,7 +11,7 @@ This was performed in several steps:
 
 - Accessing the [DE-STRESS](https://academic.oup.com/peds/article/doi/10.1093/protein/gzab029/6462357) database, importing several evaluating parameters of protein stability, and compare them to the number of rotatable bonds. (**Access_DE-STRESS.ipynb** file)
 
-- Accessing the [CATH](https://www.cathdb.info/) database, importing information about protein families and structural homolohy, and analyse relations between the number of rotatable bonds and specific protein structures. (**Access_CATH.ipynb** file)
+- Accessing the [CATH](https://www.cathdb.info/) database, importing information about protein families and structural homology, and analyse relations between the number of rotatable bonds and specific protein structures. (**Access_CATH.ipynb** file)
 
 - Accessing the [PDB](https://www.rcsb.org/) database, importing information about the source organism of the proteins, and analyse the relation between the number of rotatable bonds and the specific protein source organism. (**Access_PDB.ipynb** file)
 
